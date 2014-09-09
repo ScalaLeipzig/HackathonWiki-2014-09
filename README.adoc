@@ -2,4 +2,6 @@
 
 A Wiki for http://www.meetup.com/Scala-Leipzig-Meetup/events/203223622/[our first Scala Hackathon]
 
-Please contribute Project Ideas and other content you think other find useful.
+Please link:../../wiki[contribute] project ideas and other content you think other find useful.
+
+link:../../wiki[To the Wiki...]

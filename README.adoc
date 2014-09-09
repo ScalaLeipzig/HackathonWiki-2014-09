@@ -1,0 +1,3 @@
+= Hackathon Wiki
+
+A Wiki to organize the Scala Hackathon
